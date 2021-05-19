@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "facing=west,half=bottom":  { "model": "minecraft:block/mossy_cobblestone_slab", "x":  90, "y": 270 },
+    "facing=down,half=bottom":  { "model": "minecraft:block/mossy_cobblestone_slab", "x": 180, "y":   0 },
+    "facing=north,half=bottom": { "model": "minecraft:block/mossy_cobblestone_slab", "x":  90, "y":   0 },
+    "facing=east,half=bottom":  { "model": "minecraft:block/mossy_cobblestone_slab", "x":  90, "y":  90 },
+	  "facing=up,half=bottom":    { "model": "minecraft:block/mossy_cobblestone_slab", "x":   0, "y":   0 },
+    "facing=south,half=bottom": { "model": "minecraft:block/mossy_cobblestone_slab", "x":  90, "y": 180 },
+
+    "facing=west,half=top":  { "model": "minecraft:block/mossy_cobblestone_slab_top", "x":  90, "y": 270 },
+    "facing=down,half=top":  { "model": "minecraft:block/mossy_cobblestone_slab_top", "x": 180, "y":   0 },
+    "facing=north,half=top": { "model": "minecraft:block/mossy_cobblestone_slab_top", "x":  90, "y":   0 },
+    "facing=east,half=top":  { "model": "minecraft:block/mossy_cobblestone_slab_top", "x":  90, "y":  90 },
+    "facing=up,half=top":    { "model": "minecraft:block/mossy_cobblestone_slab_top", "x":   0, "y":   0 },
+    "facing=south,half=top": { "model": "minecraft:block/mossy_cobblestone_slab_top", "x":  90, "y": 180 },
+
+    "facing=west,half=double":  { "model": "minecraft:block/mossy_cobblestone", "x":  90, "y": 270 },
+    "facing=down,half=double":  { "model": "minecraft:block/mossy_cobblestone", "x": 180, "y":   0 },
+    "facing=north,half=double": { "model": "minecraft:block/mossy_cobblestone", "x":  90, "y":   0 },
+    "facing=east,half=double":  { "model": "minecraft:block/mossy_cobblestone", "x":  90, "y":  90 },
+    "facing=up,half=double":    { "model": "minecraft:block/mossy_cobblestone", "x":   0, "y":   0 },
+    "facing=south,half=double": { "model": "minecraft:block/mossy_cobblestone", "x":  90, "y": 180 }
+  }
+}
