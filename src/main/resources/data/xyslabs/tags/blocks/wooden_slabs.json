@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "xyslabs:oak_slab",
+    "xyslabs:spruce_slab",
+    "xyslabs:birch_slab",
+    "xyslabs:jungle_slab",
+    "xyslabs:acacia_slab",
+    "xyslabs:dark_oak_slab",
+    "xyslabs:crimson_slab",
+    "xyslabs:warped_slab"
+  ]
+}
