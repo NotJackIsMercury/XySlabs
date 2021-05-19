@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xyslabs:sandstone_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sandstone_slab"
+  }
+}

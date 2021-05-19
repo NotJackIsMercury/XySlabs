@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_slab_from_xyslabs",
+  "ingredients": [
+    {
+      "item": "xyslabs:crimson_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crimson_slab"
+  }
+}

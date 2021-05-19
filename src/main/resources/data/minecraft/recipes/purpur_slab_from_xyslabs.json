@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xyslabs:purpur_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:purpur_slab"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xyslabs:brick_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brick_slab"
+  }
+}

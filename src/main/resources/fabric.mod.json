@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "xyslabs",
+  "version": "${version}",
+
+  "name": "XyBlocks",
+  "description": "Makes a separate slabs for orientability purposes!",
+  "authors": [
+    "NotJackIsMercury"
+  ],
+
+  "license": "MIT",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.notjackismercury.xyslabs.entry.XySlabsMain"
+    ]
+  },
+  "mixins": [
+    "xyslabs.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}

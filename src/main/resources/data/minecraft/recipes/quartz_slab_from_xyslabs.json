@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xyslabs:quartz_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:quartz_slab"
+  }
+}
